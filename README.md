@@ -1,4 +1,13 @@
-## Advanced Lane Finding
+# Term 1: Project 4: Advanced Lane Finding
+## Computer Vision
+#### Self-Driving Car Engineer Nanodegree (Udacity)
+Project submission by Edward Minnett (ed@methodic.io).
+
+February 27th 2017. (Revision 1)
+
+-------
+
+# Advanced Lane Finding
 [![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive)
 
 
@@ -8,7 +17,7 @@ Creating a great writeup:
 ---
 A great writeup should include the rubric points as well as your description of how you addressed each point.  You should include a detailed description of the code used in each step (with line-number references and code snippets where necessary), and links to other supporting documents or external references.  You should include images in your writeup to demonstrate how your code works with examples.  
 
-All that said, please be concise!  We're not looking for you to write a book here, just a brief description of how you passed each rubric point, and references to the relevant code :). 
+All that said, please be concise!  We're not looking for you to write a book here, just a brief description of how you passed each rubric point, and references to the relevant code :).
 
 You're not required to use markdown for your writeup.  If you use another method please just submit a pdf of your writeup.
 
